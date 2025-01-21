@@ -62,8 +62,7 @@ SELECT CAST(SUM(quantity) AS DECIMAL(10,2)) / CAST(COUNT(DISTINCT order_id) AS D
 ```
 
 ## Sample Visualizations
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/4bd66461-790f-4f52-9e90-79efb997f7e5)
-)
+![Dashboard Screenshot](![image](![image](https://github.com/user-attachments/assets/4d994514-c443-4ecf-8ebc-c42b51339bfe)
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
